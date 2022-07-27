@@ -1,4 +1,6 @@
-## Bem-vindo, eu sou o Oládio Junior, programador Junior e estudante de programação.
+## Bem-vindo, eu sou o Oládio Junior.
+
+Programador e estudante de programação.
 
 
 - 👨‍💻 I’m currently working on / Estou trabalho com ... JavaScript, JQuery, HTML, CSS.

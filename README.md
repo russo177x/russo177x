@@ -2,7 +2,7 @@
 
 
 - 👨‍💻 I’m currently working on / Estou trabalho com ... JavaScript, JQuery, HTML, CSS.
-- 🤔 I’m currently learning / Estou aprendendo ... JavaScript, HTML, CSS, Wordpress.
+- 🤔 I’m currently learning / Estou aprendendo ... JavaScript, I.A, Python.
 
 <div align="center">
   <a href="https://github.com/russo177x">

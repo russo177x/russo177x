@@ -1,4 +1,4 @@
-## Bem-vindo, sou um desenvolvedor que sempre tenta encontrar algo pra se incomodar.
+## Bem-vindo, Dev em busca de uma vida melhor
 
 
 - 👨‍💻 I’m currently working on / Estou trabalho com ... JavaScript, JQuery, HTML, CSS.

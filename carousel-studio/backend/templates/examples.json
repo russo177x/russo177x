@@ -1,0 +1,27 @@
+{
+  "games_news_nike": {
+    "title": "GAMES NEWS // TEMPLATE NIKE-STYLE",
+    "niche": "Games",
+    "template": "Provocacao Viral",
+    "slides": [
+      "GTA VI TEVE O MAIOR TRAILER DA HISTÓRIA. E AGORA?",
+      "Recorde de visualizações em 24h reacendeu debate sobre preço e desempenho no lançamento.",
+      "A pergunta real: seu setup aguenta 60fps estáveis em mundo aberto next-gen?",
+      "Benchmark inicial indica salto pesado em GPU, com CPU ainda determinando o frame pacing.",
+      "Se você cria conteúdo, isso muda pauta, calendário e investimento em captura.",
+      "Nos esports, a tendência é migrar para narrativas mais cinematográficas e menos HUD poluído.",
+      "Studios menores podem ganhar terreno com recortes curtos e gameplay vertical para Reels.",
+      "Checklist rápido: driver atualizado, VRAM livre, preset competitivo e limite térmico revisado.",
+      "Não é só hype. É mudança de padrão visual para jogos AAA em social media.",
+      "Quer a versão completa com fontes e presets? Salva este carrossel e acompanha os próximos." 
+    ],
+    "visual_recipe": {
+      "headline_font": "Teko ExtraBold",
+      "body_font": "Rajdhani",
+      "primary": "#9D00FF",
+      "secondary": "#0B0B0F",
+      "highlight": "#FFFFFF",
+      "composition": "headline oversized + diagonal stripes + high contrast"
+    }
+  }
+}

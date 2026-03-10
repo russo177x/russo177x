@@ -1,0 +1,34 @@
+{
+  "Template Autoral": {
+    "description": "Mosaico editorial com variação de blocos e destaque para manchetes",
+    "identity": {
+      "mood": "editorial premium",
+      "grid": "3 colunas fluidas",
+      "headline_style": "condensed bold",
+      "body_style": "clean sans",
+      "accent_usage": "blocos sólidos para respiro"
+    },
+    "rules": {
+      "slide_range": [5, 15],
+      "first_slide": "hero com headline grande",
+      "middle_slides": "alternar entre imagem full, split e quote card",
+      "last_slide": "CTA + marca"
+    }
+  },
+  "Template Twitter": {
+    "description": "Cards curtos estilo social feed com avatar/handle e microcopy",
+    "identity": {
+      "mood": "social proof",
+      "grid": "2-3 colunas",
+      "headline_style": "tweet headline",
+      "body_style": "microcopy",
+      "accent_usage": "badges e divisores"
+    },
+    "rules": {
+      "slide_range": [5, 15],
+      "first_slide": "hook + contexto",
+      "middle_slides": "cards curtos com prova visual",
+      "last_slide": "resumo + assinatura"
+    }
+  }
+}

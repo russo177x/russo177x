@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "name": "Hook Curiosidade",
+    "framework": "Abertura Curiosa",
+    "niches": [
+      "Games",
+      "NFL"
+    ],
+    "min_slides": 5,
+    "max_slides": 15
+  },
+  {
+    "id": 2,
+    "name": "Autoridade Stats",
+    "framework": "Autoridade",
+    "niches": [
+      "F1",
+      "NFL"
+    ],
+    "min_slides": 5,
+    "max_slides": 15
+  },
+  {
+    "id": 3,
+    "name": "Beneficio Direto",
+    "framework": "Beneficio",
+    "niches": [
+      "Todos"
+    ],
+    "min_slides": 5,
+    "max_slides": 15
+  },
+  {
+    "id": 4,
+    "name": "Lista Impacto",
+    "framework": "Lista Valiosa",
+    "niches": [
+      "Games",
+      "NFL"
+    ],
+    "min_slides": 5,
+    "max_slides": 15
+  },
+  {
+    "id": 5,
+    "name": "Problema Solucao",
+    "framework": "Problema/Solucao",
+    "niches": [
+      "Noticias",
+      "F1"
+    ],
+    "min_slides": 5,
+    "max_slides": 15
+  },
+  {
+    "id": 6,
+    "name": "Passo a Passo",
+    "framework": "Passo a Passo",
+    "niches": [
+      "Games",
+      "F1"
+    ],
+    "min_slides": 5,
+    "max_slides": 15
+  },
+  {
+    "id": 7,
+    "name": "Provocacao Viral",
+    "framework": "Pergunta Impactante",
+    "niches": [
+      "NFL",
+      "Noticias"
+    ],
+    "min_slides": 5,
+    "max_slides": 15
+  },
+  {
+    "id": 8,
+    "name": "Demo Showcase",
+    "framework": "Games especial",
+    "niches": [
+      "Games"
+    ],
+    "min_slides": 5,
+    "max_slides": 15
+  }
+]

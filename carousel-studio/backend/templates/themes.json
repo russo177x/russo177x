@@ -1,0 +1,55 @@
+{
+  "NFL": {
+    "palette": "#8B5CF6",
+    "headline": "Bebas Neue",
+    "body": "Inter",
+    "style": "Dramatico bold",
+    "identity": {
+      "direction": "Athletic editorial",
+      "headline_transform": "UPPERCASE",
+      "contrast": "high",
+      "accent": "top-bar",
+      "inspired_by": "Nike-style typography language"
+    }
+  },
+  "F1": {
+    "palette": "#0EA5E9",
+    "headline": "Orbitron",
+    "body": "Rajdhani",
+    "style": "Futurista",
+    "identity": {
+      "direction": "Telemetry HUD",
+      "headline_transform": "UPPERCASE",
+      "contrast": "high",
+      "accent": "speed-lines",
+      "inspired_by": "Nike-style typography language"
+    }
+  },
+  "Games": {
+    "palette": "#9D00FF",
+    "headline": "Teko ExtraBold",
+    "body": "Rajdhani",
+    "style": "Cyberpunk esports",
+    "identity": {
+      "direction": "Performance street",
+      "headline_transform": "UPPERCASE",
+      "contrast": "very-high",
+      "accent": "diagonal-stripes",
+      "inspired_by": "Nike-style typography language",
+      "fallback_stack": "'Teko', 'Bebas Neue', 'Arial Narrow', sans-serif"
+    }
+  },
+  "Noticias": {
+    "palette": "#EC4899",
+    "headline": "Playfair Display",
+    "body": "Source Sans",
+    "style": "Editorial",
+    "identity": {
+      "direction": "Magazine",
+      "headline_transform": "Title Case",
+      "contrast": "medium",
+      "accent": "section-divider",
+      "inspired_by": "clean editorial"
+    }
+  }
+}
